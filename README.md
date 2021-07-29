@@ -13,3 +13,15 @@ NestJS: The Complete Developer's Guide
   - Tạo tsconfig.json
   - ![image](https://user-images.githubusercontent.com/51977303/127457312-3874cf3b-f2c3-43a1-9dc9-f32251a336fe.png)
 
+3. Quy ước đặt tên tệp
+  - One class per file (some exceptions)
+
+  - class names should include the kind of thing we are creating
+
+  - name of class and name of file should always match up
+
+  - filename template: name.type_of_thing.ts
+
+  - VD: 
+    - app.controller.ts (class AppController{})
+    - app.module.ts (class AppModule{})
