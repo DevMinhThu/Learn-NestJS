@@ -11,3 +11,4 @@ NestJS: The Complete Developer's Guide
 
 2. Cấu hình TypeScript:
   - Tạo tsconfig.json
+  - ![image](https://user-images.githubusercontent.com/51977303/127457115-7a9fc041-d202-4e24-be8f-9fa276fded89.png)
