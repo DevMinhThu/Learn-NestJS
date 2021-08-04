@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
 import { MessagesController } from './messages.controller';
 
-// là 2 class đẫ Injectable
+// là 2 class đã Injectable
 import { MessagesRepository } from './messages.repository';
 import { MessagesService } from './messages.service';
 
