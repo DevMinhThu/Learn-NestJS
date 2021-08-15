@@ -5,6 +5,7 @@ import { UsersService } from './users.service';
 import { User } from './user.entity';
 
 @Module({
+  // truyền trong mảng là entity của module đó
   imports: [TypeOrmModule.forFeature([User])],
   controllers: [UsersController],
   providers: [UsersService],
